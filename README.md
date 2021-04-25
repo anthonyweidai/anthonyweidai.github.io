@@ -71,7 +71,9 @@ What you need to do is: put the following codes in any free space of **_includes
 
 and
 
+```html
 <script src="https://kit.fontawesome.com/42df25671e.js" crossorigin="anonymous"></script>
+```
 
 I think the character **42df25671e** is from my registered account. Thus, you are recommended to register fa account to get your own one. And it is free: https://fontawesome.com/start
 
