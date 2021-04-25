@@ -15,9 +15,7 @@
   }
 
   a {
-    color: rgb(19,0,238);
     text-decoration: underline;
-    text-decoration-color: rgb(19,0,238);
 
     &:hover {
       text-decoration: underline;
@@ -61,7 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
 
   & + p {
     text-indent: 0;

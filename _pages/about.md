@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "Xingjun (Daniel) Ma"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 ---
+# This is a template test for academic pages, the following informaiton is nothing about me
+
 <span style="font-weight:bold">Lecturer (Assistant Professor), Machine Intelligence</span><br>
 <a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
 <a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
