@@ -1,50 +1,135 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Xingjun (Daniel) Ma"
+excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+---
+<span style="font-weight:bold">Lecturer (Assistant Professor), Machine Intelligence</span><br>
+<a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
+<a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
+
+<span style="font-weight:bold">Honorary Fellow</span><br>
+<a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
+<a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
+
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I also hold an honorary fellow position in the School of Computing and Information Systems (CIS), The University of Melbourne. Prior to Deakin, I was a research fellow in the Schoolf of CIS at The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I are interested in the theory and applications of machine learning and deep learning, with a particular focus on adversarial machine learning, trustworthy machine learning, weakly supervised learning, deep learning, data privacy and AI Security.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<!-- <span style="color:rgb(19,0,238)">Please do not hesitate to contact me if you are interested in collaborations on the following topics. </span>  -->
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
+<!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- <span style="color:rgb(19,0,238)">For master/hornors students, contact me if you are interested in doing machine learning research with me.</span> -->
 
-**Markdown generator**
+---
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Research Interests:
+* Machine Learning
+    * Adversarial machine learning
+    * Weakly supervised learning
+    * Robust optimization
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* Deep Learning
+    * Information geometric understanding of deep neural networks
+    * Adversarial/Backdoor robustness of deep neural networks
+    * Deep generative models
+    * Applications: classification, segmentation, image inpainting, video understanding
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* Artifical Intelligence
+    * Reliability and trustworthiness of medical AI systems
+    * Secutiry risks in human-robot interaction
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!-- * Machine Learning
+  * Secure/Robust/Explainable machine learning
+  * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">AML tutorial at AI2019 with Sarah Erfani</a>)
+  * Weakly supervised learning
+  * Reinforcement learning
+* Deep Learning and Security
+  * Adversarial attack/defense
+  * Backdoor attack/defense
+  * Generative adverarial networks
+  * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
+* Artifical Intelligence
+  * Medical AI
+  * Virtual reality surgery -->
+
+---
+<!-- ### Latest News:
+* *01/2021: Three papers are accepted to ICLR2021, two spotlights (Top 4%=114/2997) and one poster.*
+* *01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.*
+
+--- -->
+
+<!-- ### Students I currently co-supervise:
+* PhD Students
+    * Yujing Jiang
+    * Hanxun Huang
+    * Saheed Adebayo Tijani
+    * Zichan Ran
+    * Gayathri Radhabai Gopinathan Nair
+    * Chiranjibi Sitaula (completed in 2021): Developing New Image Features for Scene Image Classification
+    * Chuxuan Tong
+    * Xinzhe Li
+
+*  Masters by Research
+    * Nodens Koren (2020)
+    * Yuning Zhou (2020) -->
+
+---
+
+### Professional Activities:
+
+* Program Committee Member
+    * 2021: ICML, ICLR, NeurIPS, CVPR, ICCV, AAAI, SDM, ICDM, KDD
+    * 2020: ICML, ICLR, NeurIPS, CVPR, ECCV, AAAI, IJCAI
+    * 2019: KDD, NeurIPS
+
+* Journal Reviewer
+    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+    * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
+IEEE Transactions on Image Processing</a>
+    * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
+Pattern Recognition</a>
+    * <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank">
+IEEE Transactions on Neural Networks and Learning Systems</a>
+    * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
+IEEE Transactions on Knowledge and Data Engineering</a>
+
+    <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
+ACM Transactions on Multimedia Computing, Communications, and Applications</a> -->
+    <!-- * <a href="https://www.springer.com/journal/10115" target="_blank">
+Knowledge and Information Systems</a> -->
+    <!-- * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
+IEEE Transactions on Industrial Informatics</a> -->
+    <!-- * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
+IEEE Robotics and Automation Letters</a> -->
+
+<!--
+<span style="color:blue">
+For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact</span> <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
+
+<span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as js, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript)</span>
+
+-->
+
+---
+
+### Grants
+* Digitally-driven characterisation and design of fibre-reinforced composites, Mini ARC Analog Programme (MAAP), Deakin University, 110.8K (25K + 1 PhD scholarship), 2021-2023
+
+---
+
+### Contact:
+
+Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
+Phone: +61 414521205<br>
+Face to face: Office 2.10, Building T, Deakin University, 221 Burwood hwy, Burwood, VIC 3125.
+
+---
+

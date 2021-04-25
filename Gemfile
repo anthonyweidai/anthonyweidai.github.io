@@ -24,4 +24,9 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo-data'
+  gem 'tzinfo'
+  gem 'jekyll-paginate'
+  gem 'jekyll-gist'
+  gem 'jekyll-redirect-from'
 end

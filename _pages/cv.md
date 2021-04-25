@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,70 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### EDUCATION
+* PhD, The University of Melbourne, Australia, 2019
+* M.SE, Tsinghua University, China, 2015
+* B.SE, Jilin University, China, 2010
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### WORKING EXPERIENCE
+* 2020.6 - present: Lecturer (Assistant Professor)
+  * School of Information Technology, Deakin University, Australia
+  * Duties: teaching and research in adversarial machien learning 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018.9 - 2020.6: Research Fellow
+  * The University of Melbournbe, Australia
+  * Duties: adversarial machine learning research.
+  * Supervisor: <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2018.3 - 2018.6: Research Intern
+  * National Institute of Informatics, Tokyo, Japan
+  * Duties: dimensionality theory and deep neural networks.
+  * Supervisor: <a href="http://research.nii.ac.jp/~meh/" target="_blank">Prof. Michael E. Houle</a>
+
+* 2016 - 2018: Research Assistant
+  * Royal Victorian Eye and Ear Hospital, Melbourne, Australia
+  * Duties: AI powered virtual reality surgery training
+  * Supervisor: <a href="https://www.findanexpert.unimelb.edu.au/display/person4669" target="_blank">Prof. Stephen O'Leary</a>
+
+* 2016.2 - 2017.2: Research Assistant
+  * Apollo Medical Imaging Technology, Melbourne, Australia
+  * Duties: deep learning based breast cancer diagnosis.
+  * Supervisor: Dr. Qing Yang
+
+* 2014 - 2015: Experienced Specialist
+  * AsiaInfo Technologies(China), Inc., Beijing, China
+  * Duties: software engineer, telecom auto-activation systems
+
+* 2010 - 2014: Senior Java Engineer
+  * Datang Telecom Technology Co., Ltd., Beijing, China
+  * Duties: product manager, system architect, senior software engineer, telecom device management systems
+
+### SKILLS
+* Python: Tensorflow, Keras, PyTorch
+* Java, Matlab, SQL
+
+### TEACHING
+* Deakin University
+  * Professional Practice in Information Technology (2020 - )
+  * Team Project (B) - Execution and Delivery (2020)
+
+* University of Melbourne
+  * Web Information Technologies (associate lecturer)
+  * Knowledge Technology (tutor)
+  * Computer Systems (tutor)
+
+### AWARDS
+* 2018: ICML-2018 Travel Award, ICLR-2018 Travel Award
+
+* 2016:
+  * The 2016 Melbourne Datathon Pitch Competition: 2nd place
+  * The 2016 Melbourne Datathon Kaggle Competition: 3rd place
+
+* 2015:
+  * Melbourne International Research Scholarship, University of Melbourne.
+
+* Before 2015:
+  * National Inspirational Scholarship, Jilin University
+  * Taida-Motorola Scholarship, Jilin University
+  * Innovation Award, Jilin University
+  * Outstanding Student Leader Award, Jilin University
