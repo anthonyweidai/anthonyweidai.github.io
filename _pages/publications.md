@@ -16,7 +16,7 @@ are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true"
 citation
 
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single-publications.html %}
 {% endfor %}
 
 ## Refereed Conference Proceedings
@@ -30,6 +30,6 @@ are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true"
 citation.
 
 {% for post in site.proceedings reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single-publications.html %}
 {% endfor %}
 
