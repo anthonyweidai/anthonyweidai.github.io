@@ -3,135 +3,75 @@ permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 # This is a template test for academic pages, the following informaiton is nothing about me
 
-<span style="font-weight:bold">Lecturer (Assistant Professor), Machine Intelligence</span><br>
-<a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
-<a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
+{% include base_path %}
 
-<span style="font-weight:bold">Honorary Fellow</span><br>
-<a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
-<a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
+## Data-rich human communication
 
----
+As a cognitive scientist and data scientist, I take a **data-rich approach** to
+understanding **how people collaborate, bond, and fight**. To do that, I
+weave together a **variety of data sources from the lab and the real world**
+for a converging tapestry of the many ways in which our language, movement,
+decisions, and emotions change during social contact. Understanding how
+context---including conversational goals, social connections, and physical
+spaces---shape our emerging behaviors is a primary goal of my research, embedded
+within **rich traditions of dynamical and ecological perspectives** on human
+behavior and cognition broadly.
 
-I am a lecturer in the School of Information Technology, Deakin University (Burwood campus). I also hold an honorary fellow position in the School of Computing and Information Systems (CIS), The University of Melbourne. Prior to Deakin, I was a research fellow in the Schoolf of CIS at The University of Melbourne. I received my Bacholor, Master and PhD degrees from Jilin University, Tsinghua University and The University of Melbourne, respectively.
+I also **develop methods** to quantify social interaction,
+promote **open science** research and education, and
+create opportunities for cognitive scientists and psychologists who are
+interested in **data science, naturally occurring data, and big data**,
+with a special focus on **data ethics**.
 
-<!-- where I obtained my PhD degree in machine learning in 2019 under the supervision of Prof. <a href="https://people.eng.unimelb.edu.au/baileyj/" target="_blank">James Bailey</a> and Dr. <a href="https://scholar.google.com.au/citations?user=MjgOHPYAAAAJ&hl=en" target="_blank">Sudanthi Wijewickrema</a>.  -->
+**I'm actively recruiting lab members**, so please send me your CV and a brief
+description of your research interests if you'd like to be considered!
 
-I are interested in the theory and applications of machine learning and deep learning, with a particular focus on adversarial machine learning, trustworthy machine learning, weakly supervised learning, deep learning, data privacy and AI Security.
+## About me
 
-<!-- <span style="color:rgb(19,0,238)">Please do not hesitate to contact me if you are interested in collaborations on the following topics. </span>  -->
+I'm an assistant professor in the
+[University of Connecticut](https://uconn.edu/)’s
+[Department of Psychological Sciences](https://psych.uconn.edu/), specifically
+ within the
+[Perception, Action, Cognition division](https://psych.uconn.edu/perception-action-cognition-division/).
+I am affiliated with
+the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/);
+the [Institute for Collaboration on Health, Intervention, and Policy](https://chip.uconn.edu/);
+the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/);
+and the [Cognitive Science program](https://cogsci.uconn.edu/).
+I am also a faculty mentor in the
+[Science of Learning and Art of Communication](https://slac.uconn.edu/)
+training program.
 
-<!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
-<!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->
+I'm proud to be currently advising two graduate students,
+[Megan Chiovaro](https://mchiovaro.github.io/) and Caitrín ("Cat") Hall. Our
+lab---the [**dyscord lab**](https://github.com/dyscord-lab)---also includes a
+number of bright and hard-working current and former undergraduate research
+assistants. Together, we explore the
+**dy**namics of
+**s**ocial
+**c**ommunication and inter-
+**or**ganism
+**d**ependencies.
 
-<!-- <span style="color:rgb(19,0,238)">For master/hornors students, contact me if you are interested in doing machine learning research with me.</span> -->
+Previously, I was a postdoctoral scholar working with
+[Tom Griffiths](http://cocosci.princeton.edu/tom/index.php) in the
+[Institute of Cognitive and Brain Sciences](http://icbs.berkeley.edu/)
+at the [University of California, Berkeley](http://www.berkeley.edu/)
+and a [Moore-Sloan Data Science Fellow](http://msdse.org/)
+at the [Berkeley Institute for Data Science](http://bids.berkeley.edu/). I
+received my Ph.D in
+[Cognitive and Information Sciences](http://cogsci.ucmerced.edu/) working with
+[Rick Dale](http://co-mind.org/rick/) at the
+[University of California, Merced](https://www.ucmerced.edu/).
 
----
+## Some recent work
 
-### Research Interests:
-* Machine Learning
-    * Adversarial machine learning
-    * Weakly supervised learning
-    * Robust optimization
-
-* Deep Learning
-    * Information geometric understanding of deep neural networks
-    * Adversarial/Backdoor robustness of deep neural networks
-    * Deep generative models
-    * Applications: classification, segmentation, image inpainting, video understanding
-
-* Artifical Intelligence
-    * Reliability and trustworthiness of medical AI systems
-    * Secutiry risks in human-robot interaction
-
-<!-- * Machine Learning
-  * Secure/Robust/Explainable machine learning
-  * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">AML tutorial at AI2019 with Sarah Erfani</a>)
-  * Weakly supervised learning
-  * Reinforcement learning
-* Deep Learning and Security
-  * Adversarial attack/defense
-  * Backdoor attack/defense
-  * Generative adverarial networks
-  * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
-* Artifical Intelligence
-  * Medical AI
-  * Virtual reality surgery -->
-
----
-<!-- ### Latest News:
-* *01/2021: Three papers are accepted to ICLR2021, two spotlights (Top 4%=114/2997) and one poster.*
-* *01/2021: One paper on robustness testing of deep neural networks is accepted to ICSE2021.*
-
---- -->
-
-<!-- ### Students I currently co-supervise:
-* PhD Students
-    * Yujing Jiang
-    * Hanxun Huang
-    * Saheed Adebayo Tijani
-    * Zichan Ran
-    * Gayathri Radhabai Gopinathan Nair
-    * Chiranjibi Sitaula (completed in 2021): Developing New Image Features for Scene Image Classification
-    * Chuxuan Tong
-    * Xinzhe Li
-
-*  Masters by Research
-    * Nodens Koren (2020)
-    * Yuning Zhou (2020) -->
-
----
-
-### Professional Activities:
-
-* Program Committee Member
-    * 2021: ICML, ICLR, NeurIPS, CVPR, ICCV, AAAI, SDM, ICDM, KDD
-    * 2020: ICML, ICLR, NeurIPS, CVPR, ECCV, AAAI, IJCAI
-    * 2019: KDD, NeurIPS
-
-* Journal Reviewer
-    * <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
-    * <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing" target="_blank">
-IEEE Transactions on Image Processing</a>
-    * <a href="https://www.journals.elsevier.com/pattern-recognition" target="_blank">
-Pattern Recognition</a>
-    * <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank">
-IEEE Transactions on Neural Networks and Learning Systems</a>
-    * <a href="http://www.computer.org/portal/web/tkde" target="_blank">
-IEEE Transactions on Knowledge and Data Engineering</a>
-
-    <!-- * <a href="https://dl.acm.org/journal/tomm" target="_blank">
-ACM Transactions on Multimedia Computing, Communications, and Applications</a> -->
-    <!-- * <a href="https://www.springer.com/journal/10115" target="_blank">
-Knowledge and Information Systems</a> -->
-    <!-- * <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">
-IEEE Transactions on Industrial Informatics</a> -->
-    <!-- * <a href="http://www.ieee-ras.org/publications/ra-l" target="_blank">
-IEEE Robotics and Automation Letters</a> -->
-
-<!--
-<span style="color:blue">
-For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact</span> <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
-
-<span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as js, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript)</span>
-
--->
-
----
-
-### Grants
-* Digitally-driven characterisation and design of fibre-reinforced composites, Mini ARC Analog Programme (MAAP), Deakin University, 110.8K (25K + 1 PhD scholarship), 2021-2023
-
----
-
-### Contact:
-
-Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
-Phone: +61 414521205<br>
-Face to face: Office 2.10, Building T, Deakin University, 221 Burwood hwy, Burwood, VIC 3125.
-
----
-
+{% for post in site.recent %}
+  {% include archive-recent.html %}
+{% endfor %}

@@ -50,3 +50,10 @@ gem uninstall eventmachine
 gem install eventmachine --platform ruby
 bundle install
 ```
+
+- Run
+
+```
+bundle exec jekyll liveserve
+```
+
