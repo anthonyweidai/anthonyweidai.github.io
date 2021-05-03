@@ -77,3 +77,15 @@ and
 
 I think the character **42df25671e** is from my registered account. Thus, you are recommended to register fa account to get your own one. And it is free: https://fontawesome.com/start
 
+Or, you use the wrong code to call it, eg. github icon
+
+```html
+<i class="fab fa-github"></i>
+```
+
+I was wrong because I used
+
+```html
+<i class="fa fa-github"></i>
+```
+

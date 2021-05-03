@@ -11,7 +11,7 @@ Mentees’ names underlined. Asterisk indicates dual first-author position.
 Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
 are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
 </i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
+(<i class="fab fa-github" aria-hidden="true"></i>) and OSF
 (<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
 citation
 
@@ -25,7 +25,7 @@ Mentees’ names underlined. Asterisk indicates dual first-author position.
 Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
 are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
 </i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
+(<i class="fab fa-github" aria-hidden="true"></i>) and OSF
 (<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
 citation.
 
