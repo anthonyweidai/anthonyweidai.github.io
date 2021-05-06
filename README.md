@@ -1,8 +1,8 @@
 This is a folk from a Github Pages template for academic websites (https://github.com/OleVik/personal-academic-website),  which was again forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. Meanwhile, I took [xingjunm](https://github.com/xingjunm)/**[xingjunm.github.io](https://github.com/xingjunm/xingjunm.github.io)** and [a-paxton](https://github.com/a-paxton)/**[a-paxton.github.io](https://github.com/a-paxton/a-paxton.github.io)**as reference.
 
-## I want to write something for Windows users
+# I want to write something for Windows users
 
-### Environment configuration
+## Environment configuration
 
 * Download Ruby in [RugbyInstaller](https://rubyinstaller.org/downloads/). I selected [Ruby+Devkit 2.7.3-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.3-1/rubyinstaller-devkit-2.7.3-1-x64.exe) , which is regarded as compatible version by official.
 
@@ -14,7 +14,7 @@ This is a folk from a Github Pages template for academic websites (https://githu
 
 * Download node.js in https://nodejs.org/en/.
 
-### Run Locally
+## Run Locally
 
 - Run the following in command windows
 
@@ -57,9 +57,9 @@ bundle install
 bundle exec jekyll liveserve
 ```
 
-## Other bug fixing advice
+# Other bug fixing advice
 
-### Why I can not see icon images such as GitHub icon when I deploy my page?
+## Why I can not see icon images such as GitHub icon when I deploy my page?
 
 The cause of the problem is that html webpage cannot find the icons.
 
@@ -89,3 +89,12 @@ I was wrong because I used
 <i class="fa fa-github"></i>
 ```
 
+Recently, I found that if I doesn't **open VPN**, I also can't see these "Font Awesome icons". In other words, it is nothing about the problem of your source codes.
+
+## For  more information about pages' icons
+
+The packages are free to use:
+
+[Academicons](https://jpswalsh.github.io/academicons/)
+
+[Font Awesome](https://fontawesome.com/)
