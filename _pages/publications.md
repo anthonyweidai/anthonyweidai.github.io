@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-Reviewed Journal Publications
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 Mentees’ names underlined. Asterisk indicates dual first-author position.
 Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
