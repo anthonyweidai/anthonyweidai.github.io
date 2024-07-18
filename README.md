@@ -59,6 +59,10 @@ bundle exec jekyll liveserve
 
 # Other bugs fixing advice
 
+## Bundler v2 is running, but your lockfile was generated with v1. Installing Bundler v1 and restarting using that version.
+
+Delete  Gemfile.lock
+
 ## Why I can not see icon images such as GitHub icon when I deploy my page?
 
 The cause of the problem is that html webpage cannot find the icons.
@@ -89,7 +93,35 @@ I was wrong because I used
 <i class="fa fa-github"></i>
 ```
 
-Recently, I found that if I doesn't **open VPN**, I also can't see these "Font Awesome icons". In other words, it is nothing about the problem of your source codes.
+Recently, I found that if I doesn't **open private network**, I also can't see these "Font Awesome icons". In other words, it is nothing about the problem of your source codes.
+
+## ERROR NoMethodError: undefined method `key?' for nil
+
+Use gem "jekyll", "3.9.3" in Gemfile
+
+## No source of timezone data could be found. Exception on jekyll serve (Uninitialized constant) 
+
+
+```c
+`rescue in create_default_data_source': No source of timezone data could be found. (TZInfo::DataSourceNotFound)
+```
+
+Add the following commands in Gemfile
+
+```c
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem 'tzinfo', '>= 1', '< 3'
+  gem 'tzinfo-data'
+end
+```
+
+## An error occurred while installing wdm (0.1.1), and Bundler cannot continue.
+
+```c
+gem install wdm -- --with-cflags=-Wno-implicit-function-declaration
+or
+gem install wdm --platform=ruby
+```
 
 ## For  more information about pages' icons
 
