@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "(Anthony) Wei Dai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
@@ -137,7 +137,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
