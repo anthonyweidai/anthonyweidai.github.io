@@ -26,7 +26,7 @@ bundle clean
 (no need to use --force)
 
 ```
-bundle install
+bundle install --verbose
 ```
 
 - If it occurs [Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'](https://github.com/oneclick/rubyinstaller2/issues/96), then fix it by：
