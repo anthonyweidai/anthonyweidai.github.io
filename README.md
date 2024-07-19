@@ -54,6 +54,7 @@ bundle install
 - Run
 
 ```
+bundle exec jekyll serve -l
 bundle exec jekyll liveserve
 ```
 
