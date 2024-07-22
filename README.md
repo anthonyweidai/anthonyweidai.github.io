@@ -4,7 +4,7 @@ This is a folk from a Github Pages template for academic websites (https://githu
 
 ## Environment configuration
 
-* Download Ruby in [RugbyInstaller](https://rubyinstaller.org/downloads/). I selected [Ruby+Devkit 2.7.3-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.3-1/rubyinstaller-devkit-2.7.3-1-x64.exe) , which is regarded as compatible version by official.
+* Download Ruby in [RugbyInstaller](https://rubyinstaller.org/downloads/). I selected [Ruby+Devkit 3.2.4-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.4-1/rubyinstaller-devkit-3.2.4-1-x64.exe) , which is regarded as compatible version by official.
 
 * Download bundler, type the following command and run in command windows:
 
@@ -54,8 +54,7 @@ bundle install
 - Run
 
 ```
-bundle exec jekyll serve -l
-bundle exec jekyll liveserve
+bundle exec jekyll serve -l --trace
 ```
 
 # Other bugs fixing advice
