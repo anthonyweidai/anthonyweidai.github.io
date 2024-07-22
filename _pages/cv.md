@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://github.com/anthonyweidai/anthonyweidai.github.io/files/CV_WeiDAI.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="/files/CV_WeiDAI.pdf" type="application/pdf" width="600px" height="500px" />
