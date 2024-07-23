@@ -14,18 +14,18 @@ A data-driven personal website
 <!-- **I'm actively recruiting lab members**, so please send me your CV and a brief
 description of your research interests if you'd like to be considered! -->
 
-I'm an PhD candidate supervised by Professor [Jun Liu](https://scholars.cityu.edu.hk/en/persons/jun-liu(828ed819-1d73-466a-b468-63b5292cb4f6).html) and also working with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran) in the
-[City University of Hong Kong](https://www.cityu.edu.hk/)’s
-[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/).
+I'm an PhD candidate under the supervision of Professor [Jun Liu](https://scholars.cityu.edu.hk/en/persons/jun-liu(828ed819-1d73-466a-b468-63b5292cb4f6).html).
+Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran) at the 
+[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [City University of Hong Kong](https://www.cityu.edu.hk/).
 I am also affiliated with the 
 [Multiscale Automation and Robotics Laboratory (MARS Lab)](https://www.cityu.edu.hk/mne/marslab/).
 Previously, I received my B.Eng. in
-[Mechanical Engineering](http://cogsci.ucmerced.edu/) working with Professor
-[Zhenping Wan](https://www.researchgate.net/profile/Zhenping-Wan) at the
-[South China University of Technology](https://www.scut.edu.cn/en/).
+[Mechanical Engineering](http://cogsci.ucmerced.edu/) from the
+[South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
+[Zhenping Wan](https://www.researchgate.net/profile/Zhenping-Wan) .
 
-My Research interests lie in the interdisciplinary field of medical image analysis, computer vision, and deep learning.
-My goal is to develop innovative and intelligent systems that can facilitate highly efficient and superior-quality medical diagnoses and interventions. 
+My Research interests lie at the intersection medical image analysis, computer vision, and deep learning.
+My goal is to develop innovative and intelligent systems that facilitate efficient and high-quality medical diagnoses and interventions. 
 Recently, my focus has been on analysing small medical objects to aid in the early diagnosis of diseases.
 I am also intrigued by label-efficient deep learning solutions, such as data augmentation in self-supervised learning and domain adaptation, to create reliable and effective intelligent systems.
 
