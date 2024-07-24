@@ -4,6 +4,7 @@ title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
+  - /md.html
   - /markdown.html
 ---
 
