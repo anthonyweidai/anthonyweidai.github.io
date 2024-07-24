@@ -1,7 +1,7 @@
 ---
 title: "AIMIC: Deep Learning for Microscopic Image Classification"
-collection: publications
-permalink: /publication/aimic
+collection: journals
+permalink: /journals/aimic
 venue: 'Computer Methods and Programs in Biomedicine'
 citation: 'Liu, R., <b>Dai, W.</b>, Wu, T., Wang, M., Wan, S. and Liu, J., 2022. 
 AIMIC: Deep Learning for Microscopic Image Classification. 

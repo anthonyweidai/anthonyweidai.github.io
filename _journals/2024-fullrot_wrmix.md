@@ -1,7 +1,7 @@
 ---
 title: "Any Region Can Be Perceived Equally and Effectively on Rotation Pretext Task Using Full Rotation and Weighted-region Mixture"
-collection: publications
-permalink: /publication/fullrot_wrmix
+collection: journals
+permalink: /journals/fullrot_wrmix
 venue: 'Neural Networks'
 citation: '<b>Dai, W.</b>, Wu, T., Liu, R., Wang, M., Yin, J. and Liu, J., 2024. 
 Any Region Can Be Perceived Equally and Effectively on Rotation Pretext Task Using Full Rotation and Weighted-region Mixture. 

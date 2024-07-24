@@ -1,7 +1,7 @@
 ---
 title: "Deeply Supervised Skin Lesions Diagnosis with Stage and Branch Attention"
-collection: publications
-permalink: /publication/hierattn
+collection: journals
+permalink: /journals/hierattn
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 citation: '<b>Dai, W.</b>, Liu, R., Wu, T., Wang, M., Yin, J. and Liu, J., 2023. 
 Deeply Supervised Skin Lesions Diagnosis with Stage and Branch Attention. 
