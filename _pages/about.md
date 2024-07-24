@@ -36,7 +36,7 @@ Latest updates
 * 06/2024: Poster presenation at *ISBI2024*, Athens, Greece.
 * 06/2024: Oral presentation at *ICRA2024*, Yokohama, Japan.
 * 04/2024: One paper on self-supervised learning was accpeted to *Neural Networks*.
-* 06/2024: One paper on cell counting was accpeted to *IEEE TASE*.
+* 03/2024: One paper on cell counting was accpeted to *IEEE TASE*.
 * 02/2024: One paper was accpeted to *ISBI2024*.
 * 01/2024: One paper was accpeted to *ICRA2024*.
 * 08/2023: One paper on light-weight transformer for skin detection was accpeted to *IEEE JBHI*.
