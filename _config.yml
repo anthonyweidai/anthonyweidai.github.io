@@ -277,7 +277,7 @@ defaults:
       path: ""
       type: recent
     values:
-      layout: recent
+      layout: single
       author_profile: true
       share: true
 
