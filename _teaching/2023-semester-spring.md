@@ -1,5 +1,5 @@
 ---
-title: "MNE4032 Computer Controlled Systems"
+title: "MNE8116 Computer Controlled Systems"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-semester-spring
