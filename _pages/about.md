@@ -16,9 +16,9 @@ A data-driven personal website
 <!-- **I'm actively recruiting lab members**, so please send me your CV and a brief
 description of your research interests if you'd like to be considered! -->
 
-I'm an PhD candidate under the supervision of Professor [Jun Liu](https://scholars.cityu.edu.hk/en/persons/jun-liu(828ed819-1d73-466a-b468-63b5292cb4f6).html).
-Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran) at the 
+I'm an PhD candidate under the supervision of Professor [Jun Liu](https://scholars.cityu.edu.hk/en/persons/jun-liu(828ed819-1d73-466a-b468-63b5292cb4f6).html) at the 
 [Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [City University of Hong Kong](https://www.cityu.edu.hk/).
+Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran).
 I am also affiliated with the 
 [Multiscale Automation and Robotics Laboratory (MARS Lab)](https://www.cityu.edu.hk/mne/marslab/).
 Previously, I received my B.Eng. in
