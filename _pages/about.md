@@ -24,7 +24,7 @@ I am also affiliated with the
 Previously, I received my B.Eng. in
 [Mechanical Engineering](http://cogsci.ucmerced.edu/) from the
 [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
-[Zhenping Wan](https://www.researchgate.net/profile/Zhenping-Wan) .
+[Zhenping Wan](https://www.researchgate.net/profile/Zhenping-Wan).
 
 My Research interests lie at the intersection medical image analysis, computer vision, and deep learning.
 My goal is to develop innovative and intelligent systems that facilitate efficient and high-quality medical diagnoses and interventions. 
