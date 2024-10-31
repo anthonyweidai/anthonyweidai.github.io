@@ -33,6 +33,7 @@ I am also intrigued by label-efficient deep learning solutions, such as data aug
 
 Latest updates
 ======
+* 08/2024: One paper was accepted to *EAAI*.
 * 07/2024: One paper on cell detection using density map was accepted to *IEEE JBHI*.
 * 06/2024: One paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
 * 06/2024: Poster presenation at *ISBI2024*, Athens, Greece.
