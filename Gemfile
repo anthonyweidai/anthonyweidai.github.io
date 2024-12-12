@@ -12,7 +12,6 @@ source "http://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "webrick", "~> 1.8"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -26,6 +25,16 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate'
   gem 'jekyll-redirect-from'
+  gem 'jemoji'
+  gem 'webrick', '~> 1.8'
+end
+
+gem 'github-pages'
+
+# Time zone correction
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", ">= 1", "< 3"
+  gem "tzinfo-data"
 end
 
 # Time zone correction
