@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/CV_WeiDAI.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="/files/CV_WeiDAI.pdf" type="application/pdf" width="800px" height="700px" />
