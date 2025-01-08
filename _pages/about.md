@@ -49,7 +49,7 @@ Latest Updates
 * 03/2024: One paper on cell counting was accpeted to *IEEE TASE*.
 * 02/2024: One paper was accpeted to *ISBI2024*.
 * 01/2024: One paper was accpeted to *ICRA2024*.
-* 08/2023: One paper on light-weight transformer for skin detection was accpeted to *IEEE JBHI*.
+* 08/2023: One paper on light-weight transformer for skin cancer detection was accpeted to *IEEE JBHI*.
 
 <!-- * 01/2021: Three papers were accepted to ICLR2021, two spotlight (top 4%) and one poster. -->
 <!-- * 06/2020: I will join the School of Information Technology, Deakin University, as a lecturer. -->
