@@ -32,8 +32,19 @@ My goal is to develop innovative and intelligent systems that facilitate efficie
 Recently, my focus has been on analysing small medical objects to aid in the early diagnosis of diseases.
 I am also intrigued by label-efficient deep learning solutions, such as data augmentation in self-supervised learning and domain adaptation, to create reliable and effective intelligent systems.
 
-Latest updates
+
+Recent Work
 ======
+{% for post in site.recent %}
+  {% include archive-recent.html %}
+{% endfor %}
+
+
+Latest Updates
+======
+<!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
+<!-- * 09/2018: I submitted my PhD thesis. -->
+* 10/2024: One paper was submitted to *TNNLS*, and another to *JBHI*.
 * 08/2024: One paper was accepted to *EAAI*.
 * 07/2024: One paper on cell detection using density map was accepted to *IEEE JBHI*.
 * 06/2024: One paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
@@ -47,20 +58,9 @@ Latest updates
 
 <!-- * 01/2021: Three papers were accepted to ICLR2021, two spotlight (top 4%) and one poster. -->
 <!-- * 06/2020: I will join the School of Information Technology, Deakin University, as a lecturer. -->
-<!-- * 06/2020: One paper on robust loss functions was accepted to ICML2020.
-* 05/2020: One paper on understanding medical adversarial attacks/examples was accepted to journal Pattern Recognition. -->
+<!-- * 05/2020: One paper on understanding medical adversarial attacks/examples was accepted to journal Pattern Recognition.  -->
 <!-- * 12/2019: Two papers were accepted to ICLR2020. -->
 <!-- * 12/2019: I gave a invited tutorial on Adversarial Machine Learning (AML) at <a href="http://nugget.unisa.edu.au/AI2019/index.php#" target="_blank">Australasian Joint Conference on Artificial Intelligence (AI2019)</a>. <a href="https://github.com/xingjunm/An-Introduction-to-Adversarial-Machine-Learning" target="_blank">GitHub (slides and codes)</a>. -->
-<!-- * 08/2019: I gave a talk on generative adversarial networks (GANs) at <a href="https://mondo.com.au/" target="_blank">Mondo</a>. -->
 <!-- * 05/2019: I will visit RIKEN and NII in Japan, June 2019. -->
 <!-- * 12/2018: Session Chair of the Computer Science and IT session at <a href="http://www.capsaus.org/?a=3FA592EB18CBDF30" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>. -->
-<!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
-<!-- * 09/2018: I submitted my PhD thesis. -->
-<!-- * 07/2018: Long talk at ICML 2018 Conference, Stockholm, Sweden. -->
 <!-- * 03/2018: Research intern at National Institute of Informatic, Tokyo Japan. -->
-
-Recent work
-======
-{% for post in site.recent %}
-  {% include archive-recent.html %}
-{% endfor %}
