@@ -9,13 +9,6 @@ redirect_from:
   - /recent.html
 ---
 
-<!-- 
-A data-driven personal website
-====== -->
-
-<!-- **I'm actively recruiting lab members**, so please send me your CV and a brief
-description of your research interests if you'd like to be considered! -->
-
 I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) at the 
 [Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/). 
 <!-- and [Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/) -->
@@ -44,7 +37,9 @@ Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
 <!-- * 09/2018: I submitted my PhD thesis. -->
-* 10/2024: One paper was submitted to *TNNLS*, and another to *JBHI*.
+<!-- * 10/2024: One paper was submitted to *TNNLS*, and another to *JBHI*. -->
+* 10/2024: One paper was submitted to *JBHI*.
+* 09/2024: One paper was submitted to *TNNLS*.
 * 08/2024: One paper was accepted to *EAAI*.
 * 07/2024: One paper on cell detection using density map was accepted to *IEEE JBHI*.
 * 06/2024: One paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
