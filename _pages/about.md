@@ -9,7 +9,7 @@ redirect_from:
   - /recent.html
 ---
 
-I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) at the 
+I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) and Professor [Steven Wang](https://www.cityu.edu.hk/stfprofile/stevenwang.htm) at the 
 [Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/). 
 <!-- and [Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/) -->
 Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran).
