@@ -37,19 +37,19 @@ Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
 <!-- * 09/2018: I submitted my PhD thesis. -->
-* 01/2025: One paper was submitted to *MedIA*.
-* 10/2024: One paper was submitted to *JBHI*.
-* 09/2024: One paper was submitted to *TNNLS*.
-* 08/2024: One paper was accepted to *EAAI*.
-* 07/2024: One paper on cell detection using density map was accepted to *IEEE JBHI*.
-* 06/2024: One paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
-* 06/2024: Poster presenation at *ISBI2024*, Athens, Greece.
-* 06/2024: Oral presentation at *ICRA2024*, Yokohama, Japan.
-* 04/2024: One paper on self-supervised learning was accpeted to *Neural Networks*.
-* 03/2024: One paper on cell counting was accpeted to *IEEE TASE*.
-* 02/2024: One paper was accpeted to *ISBI2024*.
-* 01/2024: One paper was accpeted to *ICRA2024*.
-* 08/2023: One paper on light-weight transformer for skin cancer detection was accpeted to *IEEE JBHI*.
+* 01/2025: Submitted a paper to *MedIA*.
+* 10/2024: Submitted a paper to *JBHI*.
+* 09/2024: Submitted a paper to *TNNLS*.
+* 08/2024: A paper was accepted to *EAAI*.
+* 07/2024: A paper on cell detection using density map was accepted to *IEEE JBHI*.
+* 06/2024: A paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
+* 06/2024: Presented a poster at *ISBI2024* in Athens, Greece.
+* 06/2024: Gave an oral presentation at *ICRA2024* in Yokohama, Japan.
+* 04/2024: A paper on self-supervised learning was accpeted to *Neural Networks*.
+* 03/2024: A paper on cell counting was accpeted to *IEEE TASE*.
+* 02/2024: A paper was accpeted to *ISBI2024*.
+* 01/2024: A paper was accpeted to *ICRA2024*.
+* 08/2023: A paper on light-weight transformer for skin cancer detection was accpeted to *IEEE JBHI*.
 
 <!-- * 01/2021: Three papers were accepted to ICLR2021, two spotlight (top 4%) and one poster. -->
 <!-- * 06/2020: I will join the School of Information Technology, Deakin University, as a lecturer. -->
