@@ -37,7 +37,7 @@ Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
 <!-- * 09/2018: I submitted my PhD thesis. -->
-* 01/2025: Submitted a paper to *MedIA*.
+<!-- * 03/2025: Submitted a paper to *IJCV*. -->
 * 10/2024: Submitted a paper to *JBHI*.
 * 09/2024: Submitted a paper to *TNNLS*.
 * 08/2024: A paper was accepted to *EAAI*.
