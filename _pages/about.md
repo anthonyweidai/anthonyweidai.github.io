@@ -11,12 +11,8 @@ redirect_from:
 
 I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) and Professor [Steven Wang](https://www.cityu.edu.hk/stfprofile/stevenwang.htm) at the 
 [Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/). 
-<!-- and [Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/) -->
 Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran).
-I am also affiliated with the 
-[Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team).
-Previously, I received my B.Eng. in
-[Mechanical Engineering](http://cogsci.ucmerced.edu/) from the
+Previously, I received my B.Eng. in Mechanical Engineering from the
 [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
 [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
@@ -59,3 +55,8 @@ Latest Updates
 <!-- * 05/2019: I will visit RIKEN and NII in Japan, June 2019. -->
 <!-- * 12/2018: Session Chair of the Computer Science and IT session at <a href="http://www.capsaus.org/?a=3FA592EB18CBDF30" target="_blank">The 11th Research Symposium for Chinese PhD Students and Scholars in Australia</a>. -->
 <!-- * 03/2018: Research intern at National Institute of Informatic, Tokyo Japan. -->
+
+Links
+======
+[Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team)
+[Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/)
