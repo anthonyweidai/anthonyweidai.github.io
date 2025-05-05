@@ -32,7 +32,7 @@ Recent Work
 Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
-<!-- * 09/2018: I submitted my PhD thesis. -->
+<!-- * 05/2025: I submitted my PhD thesis. -->
 * 03/2025: Submitted a paper to *IJCV*.
 * 10/2024: Submitted a paper to *JBHI*.
 * 09/2024: Submitted a paper to *TNNLS*.
@@ -59,4 +59,5 @@ Latest Updates
 Links
 ======
 [Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team)
+
 [Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/)
