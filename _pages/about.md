@@ -16,10 +16,11 @@ Previously, I received my B.Eng. in Mechanical Engineering from the
 [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
 [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
-My Research interests lie at the intersection medical image analysis, computer vision, and deep learning.
-My goal is to develop innovative and intelligent systems that facilitate efficient and high-quality medical diagnoses and interventions. 
-Recently, my focus has been on analysing small medical objects to aid in the early diagnosis of diseases.
-I am also intrigued by label-efficient deep learning solutions, such as data augmentation in self-supervised learning and domain adaptation, to create reliable and effective intelligent systems.
+My research focuses on applying deep learning to improve medical imaging and robotic surgical precision. 
+I am particularly interested in real-time image analysis to enhance medical interventions. 
+To address hardware limitations, I design lightweight neural networks that reduce computational demands, making advanced AI more accessible in resource-constrained settings. 
+My work includes developing non-invasive sperm detection frameworks for in vitro fertilization.
+Additionally, I work with foundation models, using a variety of prompts to conduct precise analyses of medical objects.
 
 
 Recent Work
