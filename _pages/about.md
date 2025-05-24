@@ -22,6 +22,8 @@ To address hardware limitations, I design lightweight neural networks that reduc
 My work includes developing non-invasive sperm detection frameworks for in vitro fertilization.
 Additionally, I work with foundation models, using a variety of prompts to conduct precise analyses of medical objects.
 
+**I am currently exploring opportunities in the academic job market for faculty positions or postdoctoral roles.**
+
 
 Recent Work
 ======
