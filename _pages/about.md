@@ -11,16 +11,16 @@ redirect_from:
 
 I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) and Professor [Steven Wang](https://www.cityu.edu.hk/stfprofile/stevenwang.htm) at the 
 [Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/). 
-Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://sse.cuhk.edu.cn/en/faculty/zhangzhuoran).
+Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://scholar.google.com/citations?user=deJNhn4AAAAJ&hl=en).
 Previously, I received my B.Eng. in Mechanical Engineering from the
 [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
 [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
 My research focuses on applying deep learning to improve medical imaging and robotic surgical precision. 
-I am particularly interested in real-time image analysis to enhance medical interventions. 
-To address hardware limitations, I design lightweight neural networks that reduce computational demands, making advanced AI more accessible in resource-constrained settings. 
+I am particularly interested in foundation models and use multimodal inputs to systematically analyze medical subjects.
 My work includes developing non-invasive sperm detection frameworks for in vitro fertilization.
-Additionally, I work with foundation models, using a variety of prompts to conduct precise analyses of medical objects.
+Additionally, I work with real-time image analysis to enhance medical interventions. 
+To address hardware limitations, I design lightweight neural networks that reduce computational demands, making advanced AI more accessible in resource-constrained settings. 
 
 **I am currently exploring opportunities in the academic job market for faculty positions or postdoctoral roles.**
 
