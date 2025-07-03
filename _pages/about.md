@@ -35,7 +35,7 @@ Recent Work
 Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
-<!-- * 05/2025: I submitted my PhD thesis. -->
+* 06/2025: I submitted my PhD thesis.
 * 03/2025: Submitted a paper to *IJCV*.
 * 10/2024: Submitted a paper to *JBHI*.
 * 09/2024: Submitted a paper to *TNNLS*.
