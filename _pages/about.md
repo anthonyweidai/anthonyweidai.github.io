@@ -17,7 +17,7 @@ Previously, I received my B.Eng. in Mechanical Engineering from the
 [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
 My research focuses on applying deep learning to improve medical imaging and robotic surgical precision. 
-I am particularly interested in foundation models and use multimodal inputs to systematically analyze medical subjects.
+I am particularly interested in foundation models and use multimodal inputs to systematically analyse medical subjects.
 My work includes developing non-invasive sperm detection frameworks for in vitro fertilization.
 Additionally, I work with real-time image analysis to enhance medical interventions. 
 To address hardware limitations, I design lightweight neural networks that reduce computational demands, making advanced AI more accessible in resource-constrained settings. 
