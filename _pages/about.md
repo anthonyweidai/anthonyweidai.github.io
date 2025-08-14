@@ -58,8 +58,8 @@ Latest Updates
 
 Links
 ======
-[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/)
+[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/).
 
-[Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team)
+[Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team).
 
-[Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/)
+[Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/).
