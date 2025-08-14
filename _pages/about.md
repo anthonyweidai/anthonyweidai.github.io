@@ -9,12 +9,8 @@ redirect_from:
   - /recent.html
 ---
 
-I'm an PhD candidate under the supervision of Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu) and Professor [Steven Wang](https://www.cityu.edu.hk/stfprofile/stevenwang.htm) at the 
-[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/) of [CityU](https://www.cityu.edu.hk/). 
-Additionally, I collaborate with Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin) and Prof. [Zhuoran Zhang](https://scholar.google.com/citations?user=deJNhn4AAAAJ&hl=en).
-Previously, I received my B.Eng. in Mechanical Engineering from the
-[South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor
-[Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
+I am a final-year PhD candidate from [CityU](https://www.cityu.edu.hk/), where I worked with Professor [Jun Liu](https://www.imse.hku.hk/people/j-liu), Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), Prof. [Jianqin Yin](https://www.researchgate.net/profile/Jianqin-Yin), and Prof. [Zhuoran Zhang](https://scholar.google.com/citations?user=deJNhn4AAAAJ&hl=en).
+Previously, I received my B.Eng. in Mechanical Engineering from the [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
 My research focuses on applying deep learning to improve medical imaging and robotic surgical precision. 
 I am particularly interested in foundation models and use multimodal inputs to systematically analyse medical subjects.
@@ -35,9 +31,9 @@ Recent Work
 Latest Updates
 ======
 <!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
-* 07/2025: I passed my PhD defence.
+* 07/2025: I passed my PhD defense.
 * 06/2025: I submitted my PhD thesis.
-* 03/2025: Submitted a paper to *IJCV*.
+* 03/2025: Submitted a paper to *TIP*.
 * 10/2024: Submitted a paper to *JBHI*.
 * 09/2024: Submitted a paper to *TNNLS*.
 * 08/2024: A paper was accepted to *EAAI*.
@@ -62,6 +58,8 @@ Latest Updates
 
 Links
 ======
+[Centre for Robotics and Automation](https://www.cityu.edu.hk/cra/)
+
 [Automation & Intelligent Robot Lab (AIRLab)](https://airlab.hku.hk/team)
 
 [Department of Data and Systems Engineering](https://www.dase.hku.hk/) of [HKU](https://www.hku.hk/)
