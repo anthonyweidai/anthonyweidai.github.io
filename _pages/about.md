@@ -9,8 +9,8 @@ redirect_from:
   - /recent.html
 ---
 
-I received my Ph.D. from [CityU](https://www.cityu.edu.hk/), where I work with Prof. [Jun Liu](https://www.imse.hku.hk/people/j-liu), Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), and Prof. [Zhuoran Zhang](https://scholar.google.com/citations?user=deJNhn4AAAAJ&hl=en).
-Previously, I received my B.Eng. in Mechanical Engineering from the [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
+I received my Ph.D. from [CityU](https://www.cityu.edu.hk/), where I worked with Prof. [Jun Liu](https://www.imse.hku.hk/people/j-liu), Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/), and Prof. [Zhuoran Zhang](https://scholar.google.com/citations?user=deJNhn4AAAAJ&hl=en).
+Previously, I received my B.Eng. from the [South China University of Technology](https://www.scut.edu.cn/en/), where I worked with Professor [Zhenping Wan](https://scholar.google.com/citations?user=it9ogjMAAAAJ&hl=en).
 
 My research focuses on applying deep learning to improve medical imaging and robotic surgical precision. 
 I am particularly interested in foundation models and use multimodal inputs to systematically analyse medical subjects.
