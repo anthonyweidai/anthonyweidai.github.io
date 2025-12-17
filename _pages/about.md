@@ -33,11 +33,10 @@ Latest Updates
 <!-- * 02/2026: I took the position of Research Fellow in The University of Melbourne. -->
 * 12/2025: A paper was accpeted to *TNNLS*.
 * 12/2025: A paper was accpeted to *Nature Communications*.
+* 10/2025: Submitted a paper to *TNNLS*.
 * 07/2025: I passed my PhD defense.
 * 06/2025: I submitted my PhD thesis.
-* 03/2025: Submitted a paper to *TIP*.
 * 10/2024: Submitted a paper to *JBHI*.
-* 09/2024: Submitted a paper to *TNNLS*.
 * 08/2024: A paper was accepted to *EAAI*.
 * 07/2024: A paper on cell detection using density map was accepted to *IEEE JBHI*.
 * 06/2024: A paper on non-invasive sperm analysis was accpeted to *IEEE TASE*.
