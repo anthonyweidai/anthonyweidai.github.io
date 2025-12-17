@@ -30,8 +30,9 @@ Recent Work
 
 Latest Updates
 ======
-<!-- * 09/2018: I took the position of Research Fellow in The University of Melbourne. -->
+<!-- * 02/2026: I took the position of Research Fellow in The University of Melbourne. -->
 * 12/2025: A paper was accpeted to *TNNLS*.
+* 12/2025: A paper was accpeted to *Nature Communications*.
 * 07/2025: I passed my PhD defense.
 * 06/2025: I submitted my PhD thesis.
 * 03/2025: Submitted a paper to *TIP*.
